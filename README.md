@@ -10,6 +10,12 @@ Download the  `.mp4` clips from this Google Drive link :
 
 🔗 [Download Smoothed Clips (Google Drive)](https://drive.google.com/drive/folders/17loHe_BBmwHOtwiADoGob76aMN4PZDGK?usp=sharing)
 
+## 📄 Project Report (PDF)
+
+A detailed report is available at the following link:
+
+➡️ [View Javelin Project Report on Google Drive](https://drive.google.com/drive/folders/1kRLx3fwHb8SnliL3av-btBz0UPpuacuK?usp=sharing)
+
 ---
 
 ## 🚀 Features
